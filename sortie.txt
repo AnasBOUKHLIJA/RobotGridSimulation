@@ -1,0 +1,443 @@
+anas@anasPc:~/Desktop/SCHOOL/system_calls_using_c_language/RobotGridSimulation/src$ ./cmd.sh 
+
+
+État de la grille :
+4 1 . 
+3 0 . 
+6 2 5 
+
+État des robots :
+Robot 0 : (1, 1), Points : 9, Mouvements : 0
+Robot 1 : (0, 1), Points : 9, Mouvements : 0
+Robot 2 : (2, 1), Points : 9, Mouvements : 0
+Robot 3 : (1, 0), Points : 9, Mouvements : 0
+Robot 4 : (0, 0), Points : 9, Mouvements : 0
+Robot 5 : (2, 2), Points : 9, Mouvements : 0
+Robot 6 : (2, 0), Points : 10, Mouvements : 0
+
+
+
+État de la grille :
+4 1 . 
+3 0 . 
+6 2 5 
+
+État des robots :
+Robot 0 : (1, 1), Points : 8, Mouvements : 0
+Robot 1 : (0, 1), Points : 8, Mouvements : 0
+Robot 2 : (2, 1), Points : 8, Mouvements : 0
+Robot 3 : (1, 0), Points : 8, Mouvements : 0
+Robot 4 : (0, 0), Points : 8, Mouvements : 0
+Robot 5 : (2, 2), Points : 8, Mouvements : 0
+Robot 6 : (2, 0), Points : 8, Mouvements : 0
+
+
+
+État de la grille :
+4 1 . 
+3 0 . 
+6 2 5 
+
+État des robots :
+Robot 0 : (1, 1), Points : 7, Mouvements : 0
+Robot 1 : (0, 1), Points : 7, Mouvements : 0
+Robot 2 : (2, 1), Points : 7, Mouvements : 0
+Robot 3 : (1, 0), Points : 7, Mouvements : 0
+Robot 4 : (0, 0), Points : 7, Mouvements : 0
+Robot 5 : (2, 2), Points : 7, Mouvements : 0
+Robot 6 : (2, 0), Points : 7, Mouvements : 0
+
+
+
+État de la grille :
+4 1 . 
+3 0 . 
+6 2 5 
+
+État des robots :
+Robot 0 : (1, 1), Points : 6, Mouvements : 0
+Robot 1 : (0, 1), Points : 6, Mouvements : 0
+Robot 2 : (2, 1), Points : 6, Mouvements : 0
+Robot 3 : (1, 0), Points : 6, Mouvements : 0
+Robot 4 : (0, 0), Points : 6, Mouvements : 0
+Robot 5 : (2, 2), Points : 6, Mouvements : 0
+Robot 6 : (2, 0), Points : 6, Mouvements : 0
+
+
+
+État de la grille :
+. 4 1 
+3 0 . 
+6 2 5 
+
+État des robots :
+Robot 0 : (1, 1), Points : 5, Mouvements : 0
+Robot 1 : (0, 2), Points : 7, Mouvements : 1
+Robot 2 : (2, 1), Points : 5, Mouvements : 0
+Robot 3 : (1, 0), Points : 5, Mouvements : 0
+Robot 4 : (0, 1), Points : 7, Mouvements : 1
+Robot 5 : (2, 2), Points : 5, Mouvements : 0
+Robot 6 : (2, 0), Points : 5, Mouvements : 0
+
+
+
+État de la grille :
+. 4 1 
+3 0 . 
+6 2 5 
+
+État des robots :
+Robot 0 : (1, 1), Points : 4, Mouvements : 0
+Robot 1 : (0, 2), Points : 6, Mouvements : 1
+Robot 2 : (2, 1), Points : 4, Mouvements : 0
+Robot 3 : (1, 0), Points : 4, Mouvements : 0
+Robot 4 : (0, 1), Points : 6, Mouvements : 1
+Robot 5 : (1, 2), Points : 6, Mouvements : 1
+Robot 6 : (2, 0), Points : 4, Mouvements : 0
+
+
+
+État de la grille :
+. 4 1 
+3 0 5 
+6 2 . 
+
+État des robots :
+Robot 0 : (1, 1), Points : 3, Mouvements : 0
+Robot 1 : (0, 2), Points : 5, Mouvements : 1
+Robot 2 : (2, 1), Points : 3, Mouvements : 0
+Robot 3 : (1, 0), Points : 3, Mouvements : 0
+Robot 4 : (0, 1), Points : 5, Mouvements : 1
+Robot 5 : (2, 2), Points : 7, Mouvements : 2
+Robot 6 : (2, 0), Points : 3, Mouvements : 0
+
+
+
+État de la grille :
+. 4 1 
+3 0 . 
+6 2 5 
+
+État des robots :
+Robot 0 : (1, 1), Points : 2, Mouvements : 0
+Robot 1 : (1, 2), Points : 6, Mouvements : 2
+Robot 2 : (2, 1), Points : 2, Mouvements : 0
+Robot 3 : (1, 0), Points : 2, Mouvements : 0
+Robot 4 : (0, 1), Points : 4, Mouvements : 1
+Robot 5 : (2, 2), Points : 6, Mouvements : 2
+Robot 6 : (2, 0), Points : 2, Mouvements : 0
+
+
+
+État de la grille :
+. 4 . 
+3 0 1 
+6 2 5 
+
+État des robots :
+Robot 0 : (1, 1), Points : 1, Mouvements : 0
+Robot 1 : (1, 2), Points : 5, Mouvements : 2
+Robot 2 : (2, 1), Points : 1, Mouvements : 0
+Robot 3 : (1, 0), Points : 1, Mouvements : 0
+Robot 4 : (0, 1), Points : 3, Mouvements : 1
+Robot 5 : (2, 2), Points : 5, Mouvements : 2
+Robot 6 : (2, 0), Points : 1, Mouvements : 0
+
+
+
+État de la grille :
+4 . . 
+. . 1 
+. . 5 
+
+État des robots :
+Robot 1 : (1, 2), Points : 4, Mouvements : 2
+Robot 4 : (0, 0), Points : 4, Mouvements : 2
+Robot 5 : (2, 2), Points : 4, Mouvements : 2
+
+
+
+État de la grille :
+. 4 . 
+. . 1 
+. . 5 
+
+État des robots :
+Robot 1 : (1, 2), Points : 3, Mouvements : 2
+Robot 4 : (0, 1), Points : 5, Mouvements : 3
+Robot 5 : (2, 2), Points : 3, Mouvements : 2
+
+
+
+État de la grille :
+. 4 . 
+. . 1 
+. 5 . 
+
+État des robots :
+Robot 1 : (1, 2), Points : 2, Mouvements : 2
+Robot 4 : (0, 1), Points : 4, Mouvements : 3
+Robot 5 : (2, 1), Points : 4, Mouvements : 3
+
+
+
+État de la grille :
+4 . . 
+. . 1 
+5 . . 
+
+État des robots :
+Robot 1 : (1, 2), Points : 1, Mouvements : 2
+Robot 4 : (0, 0), Points : 5, Mouvements : 4
+Robot 5 : (2, 0), Points : 5, Mouvements : 4
+
+
+
+État de la grille :
+4 . . 
+. . . 
+5 . 1 
+
+État des robots :
+Robot 1 : (2, 2), Points : 2, Mouvements : 3
+Robot 4 : (0, 0), Points : 4, Mouvements : 4
+Robot 5 : (2, 0), Points : 4, Mouvements : 4
+
+
+
+État de la grille :
+4 . . 
+5 . . 
+. 1 . 
+
+État des robots :
+Robot 1 : (2, 1), Points : 3, Mouvements : 4
+Robot 4 : (0, 0), Points : 3, Mouvements : 4
+Robot 5 : (1, 0), Points : 5, Mouvements : 5
+
+
+
+État de la grille :
+4 . . 
+. . . 
+5 . 1 
+
+État des robots :
+Robot 1 : (2, 2), Points : 4, Mouvements : 5
+Robot 4 : (0, 0), Points : 2, Mouvements : 4
+Robot 5 : (2, 0), Points : 6, Mouvements : 6
+
+
+
+État de la grille :
+. 4 . 
+. . . 
+. 5 1 
+
+État des robots :
+Robot 1 : (2, 2), Points : 3, Mouvements : 5
+Robot 4 : (0, 1), Points : 3, Mouvements : 5
+Robot 5 : (2, 1), Points : 7, Mouvements : 7
+
+
+
+État de la grille :
+. 4 . 
+. . . 
+5 . 1 
+
+État des robots :
+Robot 1 : (2, 2), Points : 2, Mouvements : 5
+Robot 4 : (0, 1), Points : 2, Mouvements : 5
+Robot 5 : (2, 0), Points : 8, Mouvements : 8
+
+
+
+État de la grille :
+. 4 . 
+. . . 
+5 . 1 
+
+État des robots :
+Robot 1 : (2, 2), Points : 1, Mouvements : 5
+Robot 4 : (0, 0), Points : 3, Mouvements : 6
+Robot 5 : (2, 0), Points : 7, Mouvements : 8
+
+
+
+État de la grille :
+4 . . 
+. . . 
+5 . 1 
+
+État des robots :
+Robot 1 : (2, 1), Points : 2, Mouvements : 6
+Robot 4 : (0, 0), Points : 2, Mouvements : 6
+Robot 5 : (2, 0), Points : 6, Mouvements : 8
+
+
+
+État de la grille :
+4 . . 
+. . . 
+5 1 . 
+
+État des robots :
+Robot 1 : (2, 1), Points : 1, Mouvements : 6
+Robot 4 : (0, 0), Points : 1, Mouvements : 6
+Robot 5 : (2, 0), Points : 5, Mouvements : 8
+
+
+
+État de la grille :
+4 . . 
+. . . 
+5 1 . 
+
+État des robots :
+Robot 4 : (1, 0), Points : 2, Mouvements : 7
+Robot 5 : (2, 0), Points : 4, Mouvements : 8
+
+
+
+État de la grille :
+. . . 
+4 . . 
+5 . . 
+
+État des robots :
+Robot 4 : (0, 0), Points : 3, Mouvements : 8
+Robot 5 : (2, 1), Points : 5, Mouvements : 9
+
+
+
+État de la grille :
+4 . . 
+. . . 
+. . 5 
+
+État des robots :
+Robot 4 : (0, 0), Points : 2, Mouvements : 8
+Robot 5 : (2, 2), Points : 6, Mouvements : 10
+
+
+
+État de la grille :
+. 4 . 
+. . . 
+. . 5 
+
+État des robots :
+Robot 4 : (0, 1), Points : 3, Mouvements : 9
+Robot 5 : (2, 2), Points : 5, Mouvements : 10
+
+
+
+État de la grille :
+4 . . 
+. . . 
+. . 5 
+
+État des robots :
+Robot 4 : (0, 0), Points : 4, Mouvements : 10
+Robot 5 : (2, 2), Points : 4, Mouvements : 10
+
+
+
+État de la grille :
+4 . . 
+. . . 
+. . 5 
+
+État des robots :
+Robot 4 : (0, 0), Points : 3, Mouvements : 10
+Robot 5 : (2, 2), Points : 3, Mouvements : 10
+
+
+
+État de la grille :
+. . . 
+4 . . 
+. . 5 
+
+État des robots :
+Robot 4 : (1, 0), Points : 4, Mouvements : 11
+Robot 5 : (2, 2), Points : 2, Mouvements : 10
+
+
+
+État de la grille :
+. . . 
+. 4 5 
+. . . 
+
+État des robots :
+Robot 4 : (1, 1), Points : 5, Mouvements : 12
+Robot 5 : (1, 2), Points : 3, Mouvements : 11
+
+
+
+État de la grille :
+. . . 
+. 4 5 
+. . . 
+
+État des robots :
+Robot 4 : (1, 1), Points : 4, Mouvements : 12
+Robot 5 : (1, 2), Points : 2, Mouvements : 11
+
+
+
+État de la grille :
+. . . 
+. 4 5 
+. . . 
+
+État des robots :
+Robot 4 : (1, 1), Points : 3, Mouvements : 12
+Robot 5 : (1, 2), Points : 1, Mouvements : 11
+
+
+
+État de la grille :
+. . . 
+. . . 
+. 4 5 
+
+État des robots :
+Robot 4 : (2, 1), Points : 4, Mouvements : 13
+Robot 5 : (2, 2), Points : 2, Mouvements : 12
+
+
+
+État de la grille :
+. . . 
+. . . 
+. 4 5 
+
+État des robots :
+Robot 4 : (2, 1), Points : 3, Mouvements : 13
+Robot 5 : (2, 2), Points : 1, Mouvements : 12
+
+
+
+État de la grille :
+. . . 
+. . . 
+. 4 5 
+
+État des robots :
+Robot 4 : (2, 1), Points : 2, Mouvements : 13
+Tous les robots sont morts sauf le robot 4 qui reste vivant et a gagné avec 2 points et 13 mouvements !
+
+
+
+Tous les robots sont morts. État final des robots :
+Robot 0 : (1, 1), Points : 0, Mouvements : 0, Dernière position : (1, 1), Dernière action : Déplacement échoué vers (1, 2) à cause d'une collision.
+Robot 1 : (2, 1), Points : 0, Mouvements : 6, Dernière position : (2, 1), Dernière action : Déplacement échoué vers (2, 0) à cause d'une collision.
+Robot 2 : (2, 1), Points : 0, Mouvements : 0, Dernière position : (2, 1), Dernière action : Déplacement échoué vers (2, 0) à cause d'une collision.
+Robot 3 : (1, 0), Points : 0, Mouvements : 0, Dernière position : (1, 0), Dernière action : Déplacement échoué vers (1, -1) car il sort de la grille.
+Robot 4 : (2, 1), Points : 2, Mouvements : 13, Dernière position : (2, 1), Dernière action : Déplacement échoué vers (3, 1) car il sort de la grille.
+Robot 5 : (2, 2), Points : 0, Mouvements : 12, Dernière position : (2, 2), Dernière action : Déplacement échoué vers (2, 1) à cause d'une collision.
+Robot 6 : (2, 0), Points : 0, Mouvements : 0, Dernière position : (2, 0), Dernière action : Déplacement échoué vers (3, 0) car il sort de la grille.
+
